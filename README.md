@@ -1,2 +1,1 @@
-# VISTA
-An Interpretable Macro-Micro Information Fusion Framework for Whole-Slide Image Analysis
+The code will be made public after the paper is accepted
